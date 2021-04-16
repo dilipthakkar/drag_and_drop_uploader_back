@@ -7,4 +7,4 @@ to install dependencies
 
 then run
 ## npm start
-to tun serever
+to run serever
